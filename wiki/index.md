@@ -14,6 +14,10 @@ tags:
 - [[overview|Overview]] - Current synthesis across all ingested meeting transcripts.
 - [[commands|LLM Wiki Commands]] - Chat-level command reference for this vault.
 
+## Insights
+
+- [[agency-through-decision-visibility|Agency Through Decision Visibility]] - Links creative agency and spreadsheet-agent steerability through the visibility of consequential decision points.
+
 ## Projects
 
 - [[spreadsheet-agent-verification|Spreadsheet Agent Verification]] - Main project on helping users inspect and steer spreadsheet AI-agent outputs.

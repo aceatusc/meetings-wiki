@@ -44,3 +44,7 @@ Added chat-level LLM Wiki commands in `AGENTS.md` and [[commands]], including `/
 ## [2026-04-28] maintenance | Added colon command aliases
 
 Updated [[commands]] and `AGENTS.md` to support colon-form command aliases such as `query:` and `ingest:` because the Codex UI can intercept leading slash commands before they reach the agent.
+
+## [2026-04-28] insight | Agency through decision visibility
+
+Added [[agency-through-decision-visibility]], connecting the creativity study and spreadsheet-agent verification project through the idea that human agency depends on making consequential decision points visible, revisable, and attributable.

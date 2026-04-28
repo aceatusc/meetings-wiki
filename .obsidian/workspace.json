@@ -11,10 +11,14 @@
             "id": "5c89a5714e658d5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/insights/agency-through-decision-visibility.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "agency-through-decision-visibility"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "5c89a5714e658d5c",
   "lastOpenFiles": [
+    "wiki/insights/agency-through-decision-visibility.md",
     "wiki/people/ace-weekly-speakers.md",
     "wiki/projects/workshop-planning.md",
     "raw/transcripts/Sumit's Meeting - March 16st, 2026.md",
@@ -210,7 +215,6 @@
     "wiki/tasks/action-items.md",
     "wiki/people/souti-rini-chattopadhyay.md",
     "wiki/people/athena-zeinabsadat-saghi.md",
-    "wiki/people/sujay-maladi.md",
     "wiki/tasks",
     "wiki/sources",
     "wiki/projects"
