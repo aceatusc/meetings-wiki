@@ -178,6 +178,8 @@
   },
   "active": "6ece585e93068358",
   "lastOpenFiles": [
+    "docs/publishing.md",
+    "docs",
     "raw/transcripts/Sumit's Meeting - March 16st, 2026.md",
     "wiki/maps",
     "wiki/commentary",
@@ -211,7 +213,6 @@
     "raw",
     "wiki/tasks",
     "wiki/sources",
-    "wiki/projects",
-    "wiki/people"
+    "wiki/projects"
   ]
 }
