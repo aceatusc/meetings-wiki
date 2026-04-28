@@ -12,6 +12,12 @@ This folder is set up as an LLM-maintained wiki for meeting transcripts.
 - `wiki/sources/` - one summary page per raw source.
 - `wiki/projects/`, `wiki/concepts/`, `wiki/people/`, `wiki/tasks/` - synthesized wiki pages.
 
+## Web Publishing
+
+This repo includes a GitHub Actions workflow that publishes the `wiki/` folder as a Quartz website on GitHub Pages. The raw transcript folder is not published.
+
+See [docs/publishing.md](docs/publishing.md) for setup and update instructions.
+
 ## Workflow
 
 To ingest a new transcript, put it in `raw/transcripts/` and ask:
