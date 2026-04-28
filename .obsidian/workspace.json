@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a94bd77986ba05a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcadc58d3c68182c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ece585e93068358",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7481609573548b37",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d46aafa4fcaba0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d8aaa286a32eb92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a457d2c73f54850",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "970a2124fb4722cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0597a1655a8eb71f",
+    "type": "split",
+    "children": [
+      {
+        "id": "11102165809b1acd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b4fd21adeb22a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "91445437778a5f49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e87b140f2d36ff75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "889cbac8284edefc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "33470000bda1e6ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6ece585e93068358",
+  "lastOpenFiles": [
+    "raw/transcripts/Sumit's Meeting - March 16st, 2026.md",
+    "wiki/maps",
+    "wiki/commentary",
+    "wiki/insights",
+    "wiki/commands.md",
+    "raw/transcripts/Sumit's Meeting - Feb 20st, 2026.md",
+    "raw/transcripts/ACE Weekly 1 - March 11st, 2026.md",
+    "raw/transcripts/ACE Weekly - March 3th, 2026.md",
+    "wiki/sources/ace-weekly-0-2026-03-04.md",
+    "wiki/concepts/creative-agency.md",
+    "wiki/projects/spreadsheet-agent-verification.md",
+    "wiki/concepts/steerability.md",
+    "wiki/concepts/productivity-creativity-tradeoff.md",
+    "README.md",
+    "wiki/_templates/concept.md",
+    "ACE Weekly 1.md",
+    "ACE Weekly 0.md",
+    "Sumit's Meeting 1.md",
+    "Sumit's Meeting 0.md",
+    "wiki/tasks/lint-report-2026-04-28.md",
+    "wiki/tasks/open-questions.md",
+    "wiki/tasks/action-items.md",
+    "wiki/people/ace-weekly-speakers.md",
+    "wiki/people/souti-rini-chattopadhyay.md",
+    "wiki/people/athena-zeinabsadat-saghi.md",
+    "wiki/people/sujay-maladi.md",
+    "wiki/people/sumit-gulwani.md",
+    "wiki/people/sadra-sabouri.md",
+    "raw/transcripts",
+    "raw/assets",
+    "raw",
+    "wiki/tasks",
+    "wiki/sources",
+    "wiki/projects",
+    "wiki/people"
+  ]
+}
