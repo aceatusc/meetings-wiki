@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fcadc58d3c68182c",
+        "id": "d00c883a9276b639",
         "type": "tabs",
         "children": [
           {
-            "id": "6ece585e93068358",
+            "id": "5c89a5714e658d5c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,18 +176,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "6ece585e93068358",
+  "active": "5c89a5714e658d5c",
   "lastOpenFiles": [
+    "wiki/people/ace-weekly-speakers.md",
+    "wiki/projects/workshop-planning.md",
+    "raw/transcripts/Sumit's Meeting - March 16st, 2026.md",
+    "raw/transcripts/Sumit's Meeting - Feb 20st, 2026.md",
+    "raw/transcripts/ACE Weekly 1 - March 11st, 2026.md",
+    "raw/transcripts/ACE Weekly - March 3th, 2026.md",
+    "raw/transcripts",
+    "raw/assets",
+    "raw/README.md",
+    "raw",
     "docs/publishing.md",
     "docs",
-    "raw/transcripts/Sumit's Meeting - March 16st, 2026.md",
     "wiki/maps",
     "wiki/commentary",
     "wiki/insights",
     "wiki/commands.md",
-    "raw/transcripts/Sumit's Meeting - Feb 20st, 2026.md",
-    "raw/transcripts/ACE Weekly 1 - March 11st, 2026.md",
-    "raw/transcripts/ACE Weekly - March 3th, 2026.md",
     "wiki/sources/ace-weekly-0-2026-03-04.md",
     "wiki/concepts/creative-agency.md",
     "wiki/projects/spreadsheet-agent-verification.md",
@@ -202,15 +208,9 @@
     "wiki/tasks/lint-report-2026-04-28.md",
     "wiki/tasks/open-questions.md",
     "wiki/tasks/action-items.md",
-    "wiki/people/ace-weekly-speakers.md",
     "wiki/people/souti-rini-chattopadhyay.md",
     "wiki/people/athena-zeinabsadat-saghi.md",
     "wiki/people/sujay-maladi.md",
-    "wiki/people/sumit-gulwani.md",
-    "wiki/people/sadra-sabouri.md",
-    "raw/transcripts",
-    "raw/assets",
-    "raw",
     "wiki/tasks",
     "wiki/sources",
     "wiki/projects"
