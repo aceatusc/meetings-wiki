@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d00c883a9276b639",
+        "id": "4e702a0ddb19222b",
         "type": "tabs",
         "children": [
           {
-            "id": "5c89a5714e658d5c",
+            "id": "5a3879a97b00c527",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/insights/agency-through-decision-visibility.md",
+                "file": "wiki/presentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "agency-through-decision-visibility"
+              "title": "presentation"
             }
           }
         ]
@@ -180,43 +180,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c89a5714e658d5c",
+  "active": "5a3879a97b00c527",
   "lastOpenFiles": [
-    "wiki/insights/agency-through-decision-visibility.md",
-    "wiki/people/ace-weekly-speakers.md",
-    "wiki/projects/workshop-planning.md",
-    "raw/transcripts/Sumit's Meeting - March 16st, 2026.md",
-    "raw/transcripts/Sumit's Meeting - Feb 20st, 2026.md",
-    "raw/transcripts/ACE Weekly 1 - March 11st, 2026.md",
-    "raw/transcripts/ACE Weekly - March 3th, 2026.md",
-    "raw/transcripts",
-    "raw/assets",
-    "raw/README.md",
-    "raw",
-    "docs/publishing.md",
-    "docs",
-    "wiki/maps",
-    "wiki/commentary",
-    "wiki/insights",
-    "wiki/commands.md",
-    "wiki/sources/ace-weekly-0-2026-03-04.md",
-    "wiki/concepts/creative-agency.md",
-    "wiki/projects/spreadsheet-agent-verification.md",
+    "wiki/presentation.md",
     "wiki/concepts/steerability.md",
-    "wiki/concepts/productivity-creativity-tradeoff.md",
-    "README.md",
-    "wiki/_templates/concept.md",
-    "ACE Weekly 1.md",
-    "ACE Weekly 0.md",
-    "Sumit's Meeting 1.md",
-    "Sumit's Meeting 0.md",
-    "wiki/tasks/lint-report-2026-04-28.md",
-    "wiki/tasks/open-questions.md",
-    "wiki/tasks/action-items.md",
-    "wiki/people/souti-rini-chattopadhyay.md",
-    "wiki/people/athena-zeinabsadat-saghi.md",
-    "wiki/tasks",
-    "wiki/sources",
-    "wiki/projects"
+    "wiki/concepts/human-oversight.md",
+    "wiki/concepts/llm-behavior-and-biases.md",
+    "wiki/maps/sadra-vault-merge-diff-2026-05-01.md",
+    "wiki/tasks/sadra-vault-open-questions.md",
+    "wiki/source-notes/grices-maxims-of-conversations.md",
+    "wiki/source-notes/internal-multi-agent-debate.md",
+    "wiki/source-notes/best-practices-for-agent-developments.md",
+    "wiki/source-notes/llms-early-conversation-concepts.md",
+    "wiki/source-notes/raw-code-embeddings-diversity.md",
+    "wiki/source-notes/heuristics-that-llms-used.md",
+    "wiki/source-notes/llms-framing-effect.md",
+    "wiki/source-notes/artifact-summary-generation.md",
+    "wiki/source-notes/second-brain-for-organizations.md",
+    "wiki/source-notes/dataset-of-detailed-project.md",
+    "wiki/source-notes/human-oversight-as-tool-call.md",
+    "wiki/source-notes/python-data-science-problems-dataset.md",
+    "wiki/source-notes/critical-thinking-with-genai.md",
+    "wiki/source-notes/writing-down-intent.md",
+    "wiki/source-notes/challenges-of-independent-filmmakers.md",
+    "wiki/source-notes/storytelling-frames.md",
+    "wiki/source-notes/learning-to-counter-argue.md",
+    "wiki/concepts/critical-review-and-counterargument.md",
+    "wiki/source-notes/multi-turn-corrections.md",
+    "wiki/source-notes/tools-used-for-code-reviewing.md",
+    "sadra-vault/raw",
+    "sadra-vault/wiki/source-notes",
+    "sadra-vault/wiki/concepts",
+    "sadra-vault/wiki",
+    "sadra-vault/sources",
+    "sadra-vault/Templates",
+    "sadra-vault",
+    "wiki/source-notes",
+    "wiki-sadra/source-notes",
+    "wiki-sadra/concepts"
   ]
 }

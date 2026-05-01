@@ -2,7 +2,7 @@
 type: index
 status: living
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-01
 tags:
   - wiki-index
 ---
@@ -12,7 +12,12 @@ tags:
 ## Overview
 
 - [[overview|Overview]] - Current synthesis across all ingested meeting transcripts.
+- [[presentation|Presentation]] - Slide deck motivating the newly introduced concepts from the older meeting-derived concepts.
 - [[commands|LLM Wiki Commands]] - Chat-level command reference for this vault.
+
+## Maps
+
+- [[sadra-vault-merge-diff-2026-05-01|Sadra Vault Merge Diff - 2026-05-01]] - Diff view for the imported `sadra-vault` wiki pages, with imported nodes and new bridge edges colored.
 
 ## Insights
 
@@ -36,6 +41,20 @@ tags:
 - [[participatory-design|Participatory Design]] - Lightweight co-design and expert review process for the research prototype.
 - [[mixed-initiative-collaboration|Mixed-Initiative Collaboration]] - Broader goal of bidirectional human-AI collaboration.
 
+## Imported Sadra Vault Concepts
+
+- [[agent-workflows|Agent Workflows]] - Controlled autonomy, reviewable agent work, prompt loops, and human oversight.
+- [[conversation-evaluation|Conversation Evaluation]] - Rubrics, Gricean criteria, UEQ, correction traces, and interaction-quality coding.
+- [[llm-behavior-and-biases|LLM Behavior And Biases]] - Sycophancy, anchoring, framing effects, sticky early concepts, and surface-quality traps.
+- [[human-oversight|Human Oversight]] - `/human` as an agent-callable oversight tool and the routing problem of when to ask the user.
+- [[task-and-benchmark-datasets|Task And Benchmark Datasets]] - Descriptive tasks, project datasets, DS-1000, counter-argument data, and correction traces.
+- [[second-brain-and-organizational-memory|Second Brain And Organizational Memory]] - LLM-maintained personal and company memory systems.
+- [[artifact-and-presentation-generation|Artifact And Presentation Generation]] - Paper-summary websites, story frames, and intent-guided generation.
+- [[simulation-with-llms|Simulation With LLMs]] - Dynamic belief simulation and crisis-line patient simulation.
+- [[code-and-data-science-generation|Code And Data Science Generation]] - Code benchmarks, code embeddings, project descriptions, review tools, and coding-agent failure modes.
+- [[critical-review-and-counterargument|Critical Review And Counterargument]] - Reviewing AI output, counter-argument learning, and avoiding premature closure.
+- [[independent-creative-work|Independent Creative Work]] - Independent filmmaking production and distribution barriers.
+
 ## People
 
 - [[sadra-sabouri|Sadra Sabouri]] - Research lead represented in the transcripts.
@@ -52,8 +71,39 @@ tags:
 - [[ace-weekly-1-2026-03-11|ACE Weekly 1 - 2026-03-11]] - Co-design, IRB, evaluation, and workshop planning discussion.
 - [[sumits-meeting-1-2026-03-16|Sumit's Meeting 1 - 2026-03-16]] - Broad framing around views, steerability, DAGs, unknown unknowns, and prototype scope.
 
+## Imported Sadra Vault Source Notes
+
+- [[autoresearch-for-prompt-engineering|Autoresearch For Prompt Engineering]]
+- [[best-practices-for-agent-developments|Best Practices For Agent Developments]]
+- [[human-oversight-as-tool-call|Human Oversight As Tool Call]]
+- [[internal-multi-agent-debate|Internal Multi-Agent Debate]]
+- [[tools-used-for-code-reviewing|Tools Used For Code Reviewing]]
+- [[writing-down-intent|Writing Down Intent]]
+- [[grices-maxims-of-conversations|Grice's Maxims Of Conversations]]
+- [[rubicon-rubric-conversation-evaluation|RUBICON Conversation Evaluation]]
+- [[user-experience-questionnaire|User Experience Questionnaire]]
+- [[multi-turn-corrections|Multi-Turn Corrections]]
+- [[critical-thinking-with-genai|Critical Thinking With GenAI]]
+- [[heuristics-that-llms-used|Heuristics That LLMs Used]]
+- [[llm-sycophancy-in-software|LLM's Sycophancy In Software]]
+- [[llms-early-conversation-concepts|LLMs Early Conversation Concepts]]
+- [[llms-framing-effect|LLMs Framing Effect]]
+- [[learning-to-counter-argue|Learning To Counter-Argue]]
+- [[artifact-summary-generation|Artifact Summary Generation]]
+- [[dataset-of-descriptive-tasks|Dataset Of Descriptive Tasks]]
+- [[dataset-of-detailed-project|Dataset Of Detailed Project]]
+- [[python-data-science-problems-dataset|Python Data Science Problems Dataset]]
+- [[raw-code-embeddings-diversity|Raw Code Embeddings Diversity]]
+- [[storytelling-frames|Storytelling Frames]]
+- [[scaling-second-brain|Scaling Second Brain]]
+- [[second-brain-for-organizations|Second Brain For Organizations]]
+- [[dynamic-behaviour-mentality-simulation|Dynamic Behaviour-Mentality Simulation]]
+- [[mental-health-simulation-ai-agents|Mental Health Simulation AI Agents]]
+- [[challenges-of-independent-filmmakers|Challenges Of Independent Filmmakers]]
+
 ## Tasks
 
 - [[action-items|Action Items]] - Consolidated task list extracted from the meetings.
 - [[open-questions|Open Questions]] - Research, evaluation, and implementation questions to resolve.
+- [[sadra-vault-open-questions|Sadra Vault Open Questions]] - Open questions imported from `sadra-vault`.
 - [[lint-report-2026-04-28|Lint Report - 2026-04-28]] - Initial health check of this wiki.

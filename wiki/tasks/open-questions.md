@@ -2,7 +2,7 @@
 type: task
 status: living
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-01
 sources:
   - "[[sumits-meeting-0-2026-02-20]]"
   - "[[ace-weekly-0-2026-03-04]]"
@@ -48,3 +48,8 @@ tags:
 - Are Athena and Zeinabsadat Saghi the same person?
 - Can anonymized ACE weekly speakers be mapped to real people, or should the wiki keep them anonymous?
 - Should exact line-level citations be added to source summaries for stronger traceability?
+
+## Imported Sadra Vault Questions
+
+- See [[sadra-vault-open-questions|Sadra Vault Open Questions]] for open questions imported from the `sadra-vault` wiki layer.
+- Should the imported `sadra-vault` concepts remain a separate research-note cluster, or should the strongest links be synthesized directly into project pages such as [[spreadsheet-agent-verification]] and [[llm-creativity-programming-study]]?

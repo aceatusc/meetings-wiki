@@ -2,7 +2,7 @@
 type: concept
 status: living
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-01
 sources:
   - "[[sumits-meeting-1-2026-03-16]]"
 tags:
@@ -49,10 +49,16 @@ These meanings should not be conflated without an explicit design choice.
 - Showing unexplored or obsolete paths can confuse users.
 - Full dependency repair may be out of scope for the current paper.
 
+## Imported Bridge Connections
+
+- [[code-and-data-science-generation|Code and data science generation]] connects DAG semantics to generated-code review, repair, and project-level evaluation.
+- [[agent-workflows|Agent workflows]] connects DAGs to reviewable work and controlled agent loops.
+
 ## Related Pages
 
 - [[spreadsheet-agent-verification]]
 - [[views-into-agent-output]]
 - [[steerability]]
+- [[code-and-data-science-generation]]
+- [[agent-workflows]]
 - [[open-questions]]
-
