@@ -2,7 +2,7 @@
 type: concept
 status: living
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-01
 sources:
   - "[[sumits-meeting-1-2026-03-16]]"
 tags:
@@ -33,9 +33,17 @@ The formative study surfaced some need for this kind of support, though not as f
 - Create a meta-prompting agent whose job is to improve prompts for eliciting unknown unknowns.
 - Compare edit/ask suggestions against a separate unknown-unknown prompt in a fresh context.
 
+## Imported Bridge Connections
+
+- [[llm-behavior-and-biases|LLM behavior and biases]] supplies concrete failure modes that can generate unknown-unknown checks.
+- [[critical-review-and-counterargument|Critical review and counterargument]] frames unknown unknowns as assumptions that should be challenged.
+- [[human-oversight|Human oversight]] connects unknown unknowns to deciding when a model should ask for human judgment.
+
 ## Related Pages
 
 - [[verification-rubrics]]
 - [[spreadsheet-agent-verification]]
 - [[views-into-agent-output]]
-
+- [[llm-behavior-and-biases]]
+- [[critical-review-and-counterargument]]
+- [[human-oversight]]

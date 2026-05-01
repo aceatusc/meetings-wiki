@@ -2,7 +2,7 @@
 type: concept
 status: living
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-01
 sources:
   - "[[sumits-meeting-0-2026-02-20]]"
   - "[[sumits-meeting-1-2026-03-16]]"
@@ -33,10 +33,16 @@ Steerability includes:
 
 Users need to fix incorrect, incomplete, or undesirable outputs. A tool that only explains what happened may improve confidence, but the project goal is stronger: make outputs inspectable and actionable.
 
+## Imported Bridge Connections
+
+- [[agent-workflows|Agent workflows]] frames steerability as part of controlled autonomy and reviewable agent work.
+- [[human-oversight|Human oversight]] frames steerability as a routing problem: when should the system continue, ask, or hand control back to the user?
+
 ## Related Pages
 
 - [[spreadsheet-agent-verification]]
 - [[views-into-agent-output]]
 - [[dag-of-agent-computation]]
 - [[creative-agency]]
-
+- [[agent-workflows]]
+- [[human-oversight]]

@@ -2,7 +2,7 @@
 type: concept
 status: living
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-01
 sources:
   - "[[ace-weekly-0-2026-03-04]]"
 tags:
@@ -25,10 +25,16 @@ The broader thesis direction is toward AI systems that can participate in shared
 
 The term should be used sparingly in the current creativity talk. The talk should make clear which part of the broader bidirectional agenda the present study actually addresses.
 
+## Imported Bridge Connections
+
+- [[agent-workflows|Agent workflows]] adds concrete patterns for how initiative can move between human and agent.
+- [[human-oversight|Human oversight]] frames mixed initiative as a decision about when the agent should ask, continue, or yield control.
+
 ## Related Pages
 
 - [[llm-creativity-programming-study]]
 - [[creative-agency]]
 - [[productivity-creativity-tradeoff]]
 - [[steerability]]
-
+- [[agent-workflows]]
+- [[human-oversight]]

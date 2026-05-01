@@ -2,7 +2,7 @@
 type: project
 status: living
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-01
 sources:
   - "[[ace-weekly-0-2026-03-04]]"
 tags:
@@ -59,10 +59,19 @@ From the transcript, the study asks:
 - Label collaboration modes as AI roles to avoid confusion.
 - Add a future-directions ending that reconnects to broader mixed-initiative collaboration.
 
+## Imported Bridge Connections
+
+- [[code-and-data-science-generation|Code and data science generation]] adds benchmark and review vocabulary for generated programming artifacts.
+- [[task-and-benchmark-datasets|Task and benchmark datasets]] connects the study to broader evaluation datasets and correction traces.
+- [[critical-review-and-counterargument|Critical review and counterargument]] strengthens the agency framing around resisting polished but weak outputs.
+- [[artifact-and-presentation-generation|Artifact and presentation generation]] connects presentation structure and generated artifacts to creative agency.
+
 ## Related Pages
 
 - [[productivity-creativity-tradeoff]]
 - [[creative-agency]]
 - [[mixed-initiative-collaboration]]
 - [[views-into-agent-output]]
-
+- [[code-and-data-science-generation]]
+- [[task-and-benchmark-datasets]]
+- [[critical-review-and-counterargument]]

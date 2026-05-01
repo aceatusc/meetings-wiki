@@ -2,7 +2,7 @@
 type: project
 status: living
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-01
 sources:
   - "[[sumits-meeting-0-2026-02-20]]"
   - "[[ace-weekly-1-2026-03-11]]"
@@ -81,6 +81,13 @@ The study should avoid framing the dependent variable as agent quality. The targ
 - Unknown unknowns may underperform with weaker models or weak prompts.
 - DAG semantics need to be clear: actual computation dependencies, user-explored alternatives, speculative alternatives, or some combination.
 
+## Imported Bridge Connections
+
+- [[agent-workflows|Agent workflows]] adds broader patterns for controlled autonomy, reviewable work, and stopping criteria.
+- [[human-oversight|Human oversight]] connects the prototype's edit/ask controls to the question of when an agent should ask the user.
+- [[conversation-evaluation|Conversation evaluation]] connects the summative study to rubric and interaction-quality measures.
+- [[task-and-benchmark-datasets|Task and benchmark datasets]] suggests evaluation data patterns beyond single spreadsheet tasks.
+
 ## Related Pages
 
 - [[views-into-agent-output]]
@@ -89,6 +96,8 @@ The study should avoid framing the dependent variable as agent quality. The targ
 - [[dag-of-agent-computation]]
 - [[unknown-unknowns]]
 - [[participatory-design]]
+- [[agent-workflows]]
+- [[human-oversight]]
+- [[conversation-evaluation]]
 - [[action-items]]
 - [[open-questions]]
-

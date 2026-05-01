@@ -2,7 +2,7 @@
 type: log
 status: living
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-01
 tags:
   - wiki-log
 ---
@@ -48,3 +48,15 @@ Updated [[commands]] and `AGENTS.md` to support colon-form command aliases such 
 ## [2026-04-28] insight | Agency through decision visibility
 
 Added [[agency-through-decision-visibility]], connecting the creativity study and spreadsheet-agent verification project through the idea that human agency depends on making consequential decision points visible, revisable, and attributable.
+
+## [2026-05-01] maintenance | Merged sadra-vault wiki layer
+
+Imported generated concept and source-note pages from `sadra-vault/wiki/` into the main `wiki/` layer. Added [[sadra-vault-merge-diff-2026-05-01]] as a colored diff map, linked [[sadra-vault-open-questions]], updated [[index]], [[overview]], and configured the Obsidian graph to color pages tagged `#imported-sadra-vault`.
+
+## [2026-05-01] maintenance | Added cross-layer bridge edges
+
+Added bridge links between imported `sadra-vault` concepts and the older meeting-derived wiki pages. Updated [[sadra-vault-merge-diff-2026-05-01]] so existing edges, imported-internal edges, and imported-to-existing bridge edges use distinct colors.
+
+## [2026-05-01] synthesis | Presentation for imported concepts
+
+Created [[presentation]], a slide-oriented Markdown deck that motivates the newly introduced concepts using older wiki concepts such as [[views-into-agent-output]], [[steerability]], [[verification-rubrics]], [[unknown-unknowns]], and [[creative-agency]].
